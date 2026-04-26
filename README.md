@@ -1,9 +1,11 @@
 # NovaSolve
 
-NovaSolve collects the following information:
- - Access to the camera
+NovaSolve collects/stores:
+• Study progress (flashcard ratings, quiz/practice results, streaks, study sessions)
+• Optional profile info (name, selected course, study goals)
+• Optional iCloud key-value sync data (if enabled)
 
-
-SportySpot uses this information:
- - To enhance the user experience
- - To allow users to take pictures of math problems and get detailed solutions
+NovaSolve uses this data to:
+• Personalize study plans and adaptive practice
+• Track mastery, streaks, and progress dashboards
+• Restore sessions offline and sync progress across devices
